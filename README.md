@@ -1,4 +1,5 @@
-# 💫 About Me: Coffee-fueled coding enthusiast | Remote work advocate | HTML, CSS, JavaScript & Python explorer. Always ready to explore lines of code
+# 💫 About Me: 
+Coffee-fueled coding enthusiast | Remote work advocate | HTML, CSS, JavaScript & Python explorer. Always ready to explore lines of code
 
 
 ## 🌐 Socials:
