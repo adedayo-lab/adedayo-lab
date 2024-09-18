@@ -1,5 +1,5 @@
 # 💫 About Me: 
-Coffee-fueled coding enthusiast | Remote work advocate | HTML, CSS, JavaScript & Python explorer. Always ready to explore lines of code
+Backend Dev & Cloud Architect| Remote work advocate | HTML, CSS, JavaScript & Python explorer. Always ready to explore lines of code and developments.
 
 
 ## 🌐 Socials:
