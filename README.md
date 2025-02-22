@@ -3,7 +3,8 @@ Backend Dev & Cloud Architect| Remote work advocate | HTML, CSS, TypeScript, Jav
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adedayo-aderibigbe-00a323230/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/AderibigbeAdedayo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Hay-Yzee) [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/9803625/adedayo-ayobami)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adedayo-aderibigbe-00a323230/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/AderibigbeAdedayo) [![X](https://img.shields.io/badge/X-000000?logo=Twitter&logoColor=white)](https://x.com/@Hay-Yzee)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/9803625/adedayo-ayobami)
 
 
 
